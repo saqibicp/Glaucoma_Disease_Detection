@@ -6,7 +6,7 @@ This project aims to develop a system for detecting glaucoma through deep learni
 **1)** Install requirements using **pip install library-name** command  
 pip install tensorflow keras opencv-python matplotlib numpy pandas tkinter
 
-**2)** run comamand  
+**2)** run command  
 
 `python GUI.py`
 
